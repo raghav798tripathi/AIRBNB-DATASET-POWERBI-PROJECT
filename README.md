@@ -1,4 +1,4 @@
-# Looker Studio Dashboard: Global Terrorism Analysis
+# Looker Studio Dashboard: AIRBNB DATASET ANALYSIS
 
 ## 🔗 Dashboard Link:
 [Click to open dashboard]https://drive.google.com/file/d/1xTvrY_M8aRXpC_Kxb87qzYR6_VzZ-ZHQ/view?usp=drive_link
