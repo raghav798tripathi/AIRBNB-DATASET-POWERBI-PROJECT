@@ -1,7 +1,7 @@
 # Looker Studio Dashboard: Global Terrorism Analysis
 
 ## 🔗 Dashboard Link:
-[Click to open dashboard]https://drive.google.com/file/d/1hYMlTi_C0GB3kZFJpsXKG7xtNtXqfbMD/view?usp=drive_link
+[Click to open dashboard]https://drive.google.com/file/d/1xTvrY_M8aRXpC_Kxb87qzYR6_VzZ-ZHQ/view?usp=drive_link
 
 DASHBOARD SCREENSHOT:https://drive.google.com/file/d/1Se3Fb6jB0K2eIUya7bOX17kaTnUwRWqD/view?usp=drive_link
 ## 📄 Description: This Power BI dashboard analyzes Airbnb listings to uncover trends in pricing, availability, and customer reviews. It highlights key metrics like top-performing locations, host activity, and booking patterns. Designed for data-driven decision-making, it helps optimize rental strategies and user experience.
